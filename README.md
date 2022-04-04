@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="image/bike.jpg"  alt="..."width="80px" height="80px">
+  <img src="images/bike.jpg"  alt="..."width="80px" height="80px">
 </p>
 <h1 align="center"> Bike Sharing Demand Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
